@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 So Crates
+=======
+So-crates
+>>>>>>> 211bb35fd0602498ce4b3355dfa3d30ee7b0f453
 Joan of Arc
 Abraham Lincoln
-Big Bird
-Rutherford B. Hayes
